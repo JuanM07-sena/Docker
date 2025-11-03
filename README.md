@@ -38,7 +38,8 @@ Y en general, **Docker facilita mucho el trabajo en equipo que es a lo que está
 
 - Para correr el contenedor pones:
 - 
-<img width="574" height="20" alt="image" src="https://github.com/user-attachments/assets/147f21ca-2bff-4c90-8b9b-07b31d8d5ffd" />
+<img width="535" height="19" alt="image" src="https://github.com/user-attachments/assets/10e0e5a4-9c82-4f3e-ae6c-a65c1448cd06" />
+
 
 -Al ejecutarse se vería algo así:
 
