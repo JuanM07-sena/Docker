@@ -30,13 +30,12 @@ Y en general, **Docker facilita mucho el trabajo en equipo que es a lo que está
 
 ## 🧩 3. Ejemplo práctico: Mi primer contenedor
 
-### Descripción
-Creé un contenedor con una pequeña aplicación en **Python** que muestra un mensaje en consola.
+### Ejemplo práctico
+- Este comando creará una imagen Docker llamada EjemploProyecto.
+<img width="626" height="18" alt="image" src="https://github.com/user-attachments/assets/646ce851-6a81-44a3-ab78-c5b009a579d3" />
+- Para correr el contenedor pones:
+<img width="574" height="20" alt="image" src="https://github.com/user-attachments/assets/147f21ca-2bff-4c90-8b9b-07b31d8d5ffd" />
 
-### Archivos
-**Dockerfile**
-```dockerfile
-FROM python:3.10
-WORKDIR /app
-COPY app.py .
-CMD ["python", "app.py"]
+
+
+
