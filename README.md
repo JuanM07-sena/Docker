@@ -20,7 +20,7 @@ También se enseña cómo usar **docker-compose** para correr varios contenedore
 
 ---
 
-## 💬 2. Reflexión personal
+##  2. Reflexión personal
 
 Aprender Docker me pareció muy útil porque **permite ejecutar proyectos sin tener que instalar todo manualmente**, con solo un archivo (`Dockerfile` o `docker-compose.yml`) puedo levantar el entorno igual que mis compañeros diría que las ventajas son la **rapidez y facilidad para probar aplicaciones**.  
 Lo más difícil al principio y lo que aún me parece un poco confuso fue entender los conceptos de imágenes, volúmenes y puertos, pero con práctica se puede llegar a volver más claro.  
@@ -28,7 +28,7 @@ Y en general, **Docker facilita mucho el trabajo en equipo que es a lo que está
 
 ---
 
-## 🧩 3. Ejemplo práctico: Mi primer contenedor
+##  3. Ejemplo práctico: Mi primer contenedor
 
 ### Ejemplo práctico
 - Este comando creará una imagen Docker llamada EjemploProyecto.
