@@ -33,8 +33,13 @@ Y en general, **Docker facilita mucho el trabajo en equipo que es a lo que está
 ### Ejemplo práctico
 - Este comando creará una imagen Docker llamada EjemploProyecto.
 <img width="626" height="18" alt="image" src="https://github.com/user-attachments/assets/646ce851-6a81-44a3-ab78-c5b009a579d3" />
+
 - Para correr el contenedor pones:
 <img width="574" height="20" alt="image" src="https://github.com/user-attachments/assets/147f21ca-2bff-4c90-8b9b-07b31d8d5ffd" />
+
+-Al ejecutarse se vería algo así:
+<img width="652" height="311" alt="image" src="https://github.com/user-attachments/assets/e1f6bd50-d287-4f84-978b-f4902576ca08" />
+
 
 
 [Guia de Docker](https://docs.docker.com/guides/)
