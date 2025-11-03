@@ -31,7 +31,7 @@ Y en general, **Docker facilita mucho el trabajo en equipo que es a lo que está
 ##  3. Ejemplo práctico: Mi primer contenedor
 
 ### Ejemplo práctico
-- Este comando creará una imagen Docker llamada EjemploProyecto.
+- Este comando creará una imagen Docker llamada hola-docker.
 - 
 <img width="626" height="18" alt="image" src="https://github.com/user-attachments/assets/646ce851-6a81-44a3-ab78-c5b009a579d3" />
 
