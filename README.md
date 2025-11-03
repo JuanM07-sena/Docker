@@ -10,7 +10,7 @@
 
 ##  1. Resumen de los conceptos aprendidos
 
-Estos explican desde lo más básico, como qué es Docker y por qué se usa.  
+Estos vídeos explican desde lo más básico, como qué es Docker y por qué se usa.  
 Aprendí que **Docker sirve para crear contenedores**, los cuales son como “cajas” donde se ejecutan las aplicaciones con todas sus dependencias.  
 También muestran cómo **instalar Docker**, trabajar con **imágenes** y **contenedores**, usar **Docker Compose** para levantar varios servicios a la vez, y manejar **volúmenes** para guardar datos.  
 Al final, en uno de los vídeos enseña a cómo usar entornos con *hot reload*, lo que ayuda a ver los cambios del código sin reiniciar todo el contenedor lo cuál es muy útil.
