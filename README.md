@@ -33,7 +33,8 @@ Y en general, **Docker facilita mucho el trabajo en equipo que es a lo que está
 ### Ejemplo práctico
 - Este comando creará una imagen Docker llamada hola-docker.
 - 
-<img width="626" height="18" alt="image" src="https://github.com/user-attachments/assets/646ce851-6a81-44a3-ab78-c5b009a579d3" />
+<img width="592" height="18" alt="image" src="https://github.com/user-attachments/assets/5417db54-6075-45e4-bd9a-896ede226a4e" />
+
 
 - Para correr el contenedor pones:
 - 
